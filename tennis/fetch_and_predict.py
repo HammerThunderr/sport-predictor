@@ -35,6 +35,7 @@ def _get_page(host, key, tour, date, page):
     """One page of the matchstat fixtures endpoint. Surface comes from the
     nested tournament.court relation, so we must request it via `include`.
     Doubles are filtered out server-side via PlayerGroup:singles."""
+    from urllib.error import HTTPError
     url = (f"https://{host}/tennis/v2/{tour}/fixtures/{date}"
            f"?include=tournament.court"
            f"&filter=PlayerGroup:singles"
@@ -43,8 +44,20 @@ def _get_page(host, key, tour, date, page):
         "x-rapidapi-key": key,
         "x-rapidapi-host": host,
     })
-    with urlopen(req, timeout=30) as r:
-        return json.load(r)
+    try:
+        with urlopen(req, timeout=30) as r:
+            return json.load(r)
+    except HTTPError as e:
+        body = e.read().decode("utf-8", "replace")[:500]
+        # RapidAPI puts the real reason here, e.g.
+        #   403 -> "You are not subscribed to this API."
+        #   401 -> "Invalid API key"
+        #   429 -> "You have exceeded ... requests"
+        raise SystemExit(
+            f"\nAPI request failed: HTTP {e.code} on {url}\n"
+            f"Server said: {body}\n"
+            f"(403 = key valid but not subscribed to this API on RapidAPI; "
+            f"401 = bad key; 429 = quota exceeded.)\n")
 
 
 def _surface_of(m):
