@@ -1,0 +1,1654 @@
+{
+ "Stan Wawrinka": {
+  "elo": 1714.9,
+  "hard": 1725.9,
+  "clay": 1699.1,
+  "grass": 1624.2,
+  "matches": 952
+ },
+ "Rafael Nadal": {
+  "elo": 2101.6,
+  "hard": 2036.8,
+  "clay": 2190.1,
+  "grass": 1959.2,
+  "matches": 1251
+ },
+ "Gael Monfils": {
+  "elo": 1843.7,
+  "hard": 1854.7,
+  "clay": 1661.8,
+  "grass": 1623.9,
+  "matches": 939
+ },
+ "Novak Djokovic": {
+  "elo": 2214.2,
+  "hard": 2192.1,
+  "clay": 2142.7,
+  "grass": 2167.4,
+  "matches": 1408
+ },
+ "Aisam-Ul-Haq Qureshi": {
+  "elo": 1530.3,
+  "hard": 1519.2,
+  "clay": 1575.6,
+  "grass": 1549.9,
+  "matches": 52
+ },
+ "Benjamin Balleret": {
+  "elo": 1504.2,
+  "hard": 1458.9,
+  "clay": 1532.2,
+  "grass": 1500.0,
+  "matches": 60
+ },
+ "Aqeel Khan": {
+  "elo": 1547.2,
+  "hard": 1563.8,
+  "clay": 1407.6,
+  "grass": 1523.8,
+  "matches": 55
+ },
+ "Rubin Statham": {
+  "elo": 1444.3,
+  "hard": 1500.5,
+  "clay": 1537.1,
+  "grass": 1394.2,
+  "matches": 54
+ },
+ "Richard Gasquet": {
+  "elo": 1689.9,
+  "hard": 1681.6,
+  "clay": 1623.5,
+  "grass": 1650.3,
+  "matches": 987
+ },
+ "Andy Murray": {
+  "elo": 1792.3,
+  "hard": 1782.4,
+  "clay": 1941.0,
+  "grass": 1855.5,
+  "matches": 1017
+ },
+ "Marin Cilic": {
+  "elo": 1815.3,
+  "hard": 1767.2,
+  "clay": 1752.9,
+  "grass": 1890.1,
+  "matches": 954
+ },
+ "Fabio Fognini": {
+  "elo": 1678.3,
+  "hard": 1614.0,
+  "clay": 1692.4,
+  "grass": 1567.0,
+  "matches": 827
+ },
+ "Robin Haase": {
+  "elo": 1686.5,
+  "hard": 1675.4,
+  "clay": 1598.8,
+  "grass": 1567.0,
+  "matches": 507
+ },
+ "Marcelo Arevalo": {
+  "elo": 1660.0,
+  "hard": 1679.5,
+  "clay": 1460.8,
+  "grass": 1500.0,
+  "matches": 54
+ },
+ "Kei Nishikori": {
+  "elo": 1846.0,
+  "hard": 1831.2,
+  "clay": 1824.4,
+  "grass": 1730.6,
+  "matches": 691
+ },
+ "Martin Klizan": {
+  "elo": 1637.0,
+  "hard": 1631.0,
+  "clay": 1659.0,
+  "grass": 1372.5,
+  "matches": 304
+ },
+ "Mikhail Kukushkin": {
+  "elo": 1594.4,
+  "hard": 1559.1,
+  "clay": 1490.1,
+  "grass": 1541.9,
+  "matches": 415
+ },
+ "Vasek Pospisil": {
+  "elo": 1723.8,
+  "hard": 1694.1,
+  "clay": 1238.3,
+  "grass": 1501.7,
+  "matches": 314
+ },
+ "Joao Sousa": {
+  "elo": 1590.5,
+  "hard": 1619.6,
+  "clay": 1535.4,
+  "grass": 1454.9,
+  "matches": 486
+ },
+ "Adrian Mannarino": {
+  "elo": 1787.4,
+  "hard": 1748.7,
+  "clay": 1400.1,
+  "grass": 1675.8,
+  "matches": 676
+ },
+ "Ricardas Berankis": {
+  "elo": 1711.6,
+  "hard": 1684.6,
+  "clay": 1515.2,
+  "grass": 1441.3,
+  "matches": 289
+ },
+ "Daniel Evans": {
+  "elo": 1733.2,
+  "hard": 1689.1,
+  "clay": 1538.0,
+  "grass": 1589.6,
+  "matches": 348
+ },
+ "Grigor Dimitrov": {
+  "elo": 1978.5,
+  "hard": 1964.0,
+  "clay": 1815.5,
+  "grass": 1757.8,
+  "matches": 786
+ },
+ "Bernard Tomic": {
+  "elo": 1650.4,
+  "hard": 1661.7,
+  "clay": 1417.9,
+  "grass": 1641.5,
+  "matches": 374
+ },
+ "Mohamed Safwat": {
+  "elo": 1545.4,
+  "hard": 1428.3,
+  "clay": 1570.7,
+  "grass": 1520.4,
+  "matches": 45
+ },
+ "Radu Albot": {
+  "elo": 1636.9,
+  "hard": 1641.3,
+  "clay": 1577.6,
+  "grass": 1391.4,
+  "matches": 256
+ },
+ "Milos Raonic": {
+  "elo": 1893.0,
+  "hard": 1884.5,
+  "clay": 1840.8,
+  "grass": 1803.7,
+  "matches": 584
+ },
+ "Marius Copil": {
+  "elo": 1635.6,
+  "hard": 1673.1,
+  "clay": 1408.9,
+  "grass": 1434.3,
+  "matches": 158
+ },
+ "Roberto Bautista Agut": {
+  "elo": 1798.7,
+  "hard": 1709.3,
+  "clay": 1704.9,
+  "grass": 1746.2,
+  "matches": 730
+ },
+ "Matthew Ebden": {
+  "elo": 1633.4,
+  "hard": 1630.1,
+  "clay": 1276.7,
+  "grass": 1531.9,
+  "matches": 208
+ },
+ "Jason Kubler": {
+  "elo": 1645.3,
+  "hard": 1598.6,
+  "clay": 1622.7,
+  "grass": 1596.0,
+  "matches": 62
+ },
+ "Marton Fucsovics": {
+  "elo": 1808.8,
+  "hard": 1715.9,
+  "clay": 1751.6,
+  "grass": 1715.4,
+  "matches": 361
+ },
+ "Albert Ramos-Vinolas": {
+  "elo": 1627.3,
+  "hard": 1528.2,
+  "clay": 1652.6,
+  "grass": 1336.4,
+  "matches": 615
+ },
+ "Dusan Lajovic": {
+  "elo": 1657.6,
+  "hard": 1628.2,
+  "clay": 1645.0,
+  "grass": 1384.7,
+  "matches": 480
+ },
+ "Benoit Paire": {
+  "elo": 1553.0,
+  "hard": 1606.2,
+  "clay": 1514.5,
+  "grass": 1591.4,
+  "matches": 542
+ },
+ "Denis Kudla": {
+  "elo": 1596.8,
+  "hard": 1558.4,
+  "clay": 1415.0,
+  "grass": 1612.3,
+  "matches": 204
+ },
+ "Hugo Dellien": {
+  "elo": 1516.3,
+  "hard": 1385.4,
+  "clay": 1532.0,
+  "grass": 1361.8,
+  "matches": 109
+ },
+ "Damir Dzumhur": {
+  "elo": 1651.7,
+  "hard": 1562.6,
+  "clay": 1697.8,
+  "grass": 1518.8,
+  "matches": 322
+ },
+ "Steve Johnson": {
+  "elo": 1676.1,
+  "hard": 1613.4,
+  "clay": 1650.7,
+  "grass": 1648.3,
+  "matches": 405
+ },
+ "Emilio Gomez": {
+  "elo": 1532.7,
+  "hard": 1555.0,
+  "clay": 1487.1,
+  "grass": 1500.0,
+  "matches": 55
+ },
+ "David Goffin": {
+  "elo": 1709.2,
+  "hard": 1669.6,
+  "clay": 1691.4,
+  "grass": 1640.5,
+  "matches": 636
+ },
+ "Facundo Bagnis": {
+  "elo": 1636.4,
+  "hard": 1541.2,
+  "clay": 1619.8,
+  "grass": 1317.5,
+  "matches": 134
+ },
+ "Dimitar Kuzmanov": {
+  "elo": 1485.1,
+  "hard": 1462.2,
+  "clay": 1508.1,
+  "grass": 1500.0,
+  "matches": 39
+ },
+ "Pablo Carreno Busta": {
+  "elo": 1780.6,
+  "hard": 1764.8,
+  "clay": 1766.4,
+  "grass": 1462.9,
+  "matches": 523
+ },
+ "Dominic Thiem": {
+  "elo": 1720.9,
+  "hard": 1770.5,
+  "clay": 1711.0,
+  "grass": 1541.2,
+  "matches": 568
+ },
+ "James Duckworth": {
+  "elo": 1671.3,
+  "hard": 1617.4,
+  "clay": 1399.2,
+  "grass": 1515.4,
+  "matches": 193
+ },
+ "Darian King": {
+  "elo": 1637.8,
+  "hard": 1624.1,
+  "clay": 1507.3,
+  "grass": 1500.0,
+  "matches": 56
+ },
+ "Ricardo Rodriguez - Pace": {
+  "elo": 1569.7,
+  "hard": 1624.8,
+  "clay": 1539.4,
+  "grass": 1500.0,
+  "matches": 31
+ },
+ "Liam Broady": {
+  "elo": 1643.3,
+  "hard": 1663.6,
+  "clay": 1469.8,
+  "grass": 1441.8,
+  "matches": 56
+ },
+ "Marco Trungelliti": {
+  "elo": 1578.5,
+  "hard": 1416.9,
+  "clay": 1623.1,
+  "grass": 1422.8,
+  "matches": 42
+ },
+ "Guido Andreozzi": {
+  "elo": 1552.4,
+  "hard": 1575.6,
+  "clay": 1486.0,
+  "grass": 1397.1,
+  "matches": 40
+ },
+ "Cristian Garin": {
+  "elo": 1709.3,
+  "hard": 1658.1,
+  "clay": 1687.5,
+  "grass": 1630.6,
+  "matches": 264
+ },
+ "Jiri Vesely": {
+  "elo": 1671.5,
+  "hard": 1635.1,
+  "clay": 1559.3,
+  "grass": 1647.1,
+  "matches": 315
+ },
+ "Yasutaka Uchiyama": {
+  "elo": 1548.3,
+  "hard": 1568.7,
+  "clay": 1447.2,
+  "grass": 1348.2,
+  "matches": 41
+ },
+ "Lucas Pouille": {
+  "elo": 1676.6,
+  "hard": 1686.5,
+  "clay": 1552.1,
+  "grass": 1682.9,
+  "matches": 279
+ },
+ "Diego Schwartzman": {
+  "elo": 1661.8,
+  "hard": 1674.0,
+  "clay": 1663.1,
+  "grass": 1559.5,
+  "matches": 478
+ },
+ "Wishaya Trongcharoenchaikul": {
+  "elo": 1532.1,
+  "hard": 1526.6,
+  "clay": 1554.5,
+  "grass": 1506.1,
+  "matches": 23
+ },
+ "Egor Gerasimov": {
+  "elo": 1661.9,
+  "hard": 1603.6,
+  "clay": 1568.6,
+  "grass": 1563.2,
+  "matches": 121
+ },
+ "Roberto Carballes Baena": {
+  "elo": 1691.1,
+  "hard": 1666.9,
+  "clay": 1643.0,
+  "grass": 1419.8,
+  "matches": 295
+ },
+ "Jan-Lennard Struff": {
+  "elo": 1798.5,
+  "hard": 1712.2,
+  "clay": 1757.0,
+  "grass": 1685.6,
+  "matches": 505
+ },
+ "Nick Kyrgios": {
+  "elo": 1964.6,
+  "hard": 1906.1,
+  "clay": 1773.1,
+  "grass": 1847.3,
+  "matches": 333
+ },
+ "Mirza Basic": {
+  "elo": 1529.6,
+  "hard": 1525.3,
+  "clay": 1493.5,
+  "grass": 1387.1,
+  "matches": 76
+ },
+ "Elias Ymer": {
+  "elo": 1643.1,
+  "hard": 1663.7,
+  "clay": 1454.2,
+  "grass": 1418.2,
+  "matches": 125
+ },
+ "Alexander Zverev": {
+  "elo": 2068.2,
+  "hard": 2040.3,
+  "clay": 2017.4,
+  "grass": 1801.6,
+  "matches": 746
+ },
+ "Borna Coric": {
+  "elo": 1675.1,
+  "hard": 1653.9,
+  "clay": 1714.7,
+  "grass": 1580.5,
+  "matches": 428
+ },
+ "Mackenzie McDonald": {
+  "elo": 1686.7,
+  "hard": 1636.9,
+  "clay": 1434.8,
+  "grass": 1578.7,
+  "matches": 257
+ },
+ "Nicolas Jarry": {
+  "elo": 1701.5,
+  "hard": 1608.3,
+  "clay": 1656.2,
+  "grass": 1649.0,
+  "matches": 255
+ },
+ "Aslan Karatsev": {
+  "elo": 1712.8,
+  "hard": 1656.8,
+  "clay": 1642.0,
+  "grass": 1495.4,
+  "matches": 167
+ },
+ "Pierre-Hugues Herbert": {
+  "elo": 1671.9,
+  "hard": 1696.2,
+  "clay": 1549.9,
+  "grass": 1570.5,
+  "matches": 239
+ },
+ "Karen Khachanov": {
+  "elo": 1909.4,
+  "hard": 1849.0,
+  "clay": 1876.5,
+  "grass": 1753.9,
+  "matches": 539
+ },
+ "Hyeon Chung": {
+  "elo": 1788.2,
+  "hard": 1743.6,
+  "clay": 1763.5,
+  "grass": 1443.0,
+  "matches": 157
+ },
+ "Laslo Djere": {
+  "elo": 1716.7,
+  "hard": 1700.3,
+  "clay": 1726.6,
+  "grass": 1450.4,
+  "matches": 320
+ },
+ "Thanasi Kokkinakis": {
+  "elo": 1850.1,
+  "hard": 1809.6,
+  "clay": 1614.9,
+  "grass": 1581.5,
+  "matches": 178
+ },
+ "Ramkumar Ramanathan": {
+  "elo": 1472.5,
+  "hard": 1338.4,
+  "clay": 1473.3,
+  "grass": 1692.9,
+  "matches": 63
+ },
+ "Jordan Thompson": {
+  "elo": 1791.0,
+  "hard": 1772.8,
+  "clay": 1497.0,
+  "grass": 1686.6,
+  "matches": 332
+ },
+ "Viktor Durasovic": {
+  "elo": 1489.0,
+  "hard": 1442.2,
+  "clay": 1483.0,
+  "grass": 1500.0,
+  "matches": 36
+ },
+ "Taro Daniel": {
+  "elo": 1594.3,
+  "hard": 1583.6,
+  "clay": 1542.4,
+  "grass": 1243.8,
+  "matches": 245
+ },
+ "Norbert Gombos": {
+  "elo": 1613.1,
+  "hard": 1524.5,
+  "clay": 1601.5,
+  "grass": 1359.8,
+  "matches": 89
+ },
+ "Nikoloz Basilashvili": {
+  "elo": 1665.1,
+  "hard": 1624.5,
+  "clay": 1584.4,
+  "grass": 1655.9,
+  "matches": 340
+ },
+ "Mitchell Krueger": {
+  "elo": 1593.0,
+  "hard": 1533.4,
+  "clay": 1531.9,
+  "grass": 1427.0,
+  "matches": 36
+ },
+ "Frances Tiafoe": {
+  "elo": 1832.1,
+  "hard": 1796.5,
+  "clay": 1756.5,
+  "grass": 1643.3,
+  "matches": 450
+ },
+ "Marcos Giron": {
+  "elo": 1755.5,
+  "hard": 1692.6,
+  "clay": 1616.7,
+  "grass": 1667.8,
+  "matches": 274
+ },
+ "Yoshihito Nishioka": {
+  "elo": 1712.3,
+  "hard": 1673.5,
+  "clay": 1619.6,
+  "grass": 1397.5,
+  "matches": 314
+ },
+ "Andrey Rublev": {
+  "elo": 1887.2,
+  "hard": 1831.4,
+  "clay": 1884.5,
+  "grass": 1769.5,
+  "matches": 583
+ },
+ "Cem Ilkel": {
+  "elo": 1405.0,
+  "hard": 1454.9,
+  "clay": 1272.7,
+  "grass": 1347.4,
+  "matches": 43
+ },
+ "Juan Pablo Varillas": {
+  "elo": 1587.7,
+  "hard": 1456.0,
+  "clay": 1643.1,
+  "grass": 1438.5,
+  "matches": 84
+ },
+ "Kamil Majchrzak": {
+  "elo": 1769.5,
+  "hard": 1705.9,
+  "clay": 1534.9,
+  "grass": 1628.6,
+  "matches": 99
+ },
+ "Alex Bolt": {
+  "elo": 1670.0,
+  "hard": 1619.4,
+  "clay": 1500.0,
+  "grass": 1381.4,
+  "matches": 50
+ },
+ "Jaume Munar": {
+  "elo": 1841.6,
+  "hard": 1795.6,
+  "clay": 1647.4,
+  "grass": 1548.0,
+  "matches": 282
+ },
+ "Constant Lestienne": {
+  "elo": 1512.4,
+  "hard": 1513.7,
+  "clay": 1334.2,
+  "grass": 1323.2,
+  "matches": 62
+ },
+ "Quentin Halys": {
+  "elo": 1633.4,
+  "hard": 1570.9,
+  "clay": 1709.2,
+  "grass": 1547.6,
+  "matches": 133
+ },
+ "Maximilian Marterer": {
+  "elo": 1609.6,
+  "hard": 1561.6,
+  "clay": 1548.2,
+  "grass": 1440.8,
+  "matches": 122
+ },
+ "Taylor Fritz": {
+  "elo": 2047.7,
+  "hard": 1986.6,
+  "clay": 1814.4,
+  "grass": 1920.5,
+  "matches": 553
+ },
+ "Hady Habib": {
+  "elo": 1531.0,
+  "hard": 1630.8,
+  "clay": 1448.0,
+  "grass": 1500.0,
+  "matches": 23
+ },
+ "Daniel Elahi Galan": {
+  "elo": 1558.3,
+  "hard": 1496.5,
+  "clay": 1519.4,
+  "grass": 1621.5,
+  "matches": 134
+ },
+ "Christopher Eubanks": {
+  "elo": 1671.5,
+  "hard": 1612.2,
+  "clay": 1484.1,
+  "grass": 1606.7,
+  "matches": 112
+ },
+ "Tommy Paul": {
+  "elo": 1970.1,
+  "hard": 1874.5,
+  "clay": 1952.6,
+  "grass": 1777.0,
+  "matches": 345
+ },
+ "Tim van Rijthoven": {
+  "elo": 1689.1,
+  "hard": 1501.6,
+  "clay": 1558.6,
+  "grass": 1721.4,
+  "matches": 23
+ },
+ "Zhizhen Zhang": {
+  "elo": 1665.0,
+  "hard": 1568.3,
+  "clay": 1765.6,
+  "grass": 1563.9,
+  "matches": 132
+ },
+ "Mikael Ymer": {
+  "elo": 1717.3,
+  "hard": 1684.6,
+  "clay": 1568.9,
+  "grass": 1585.8,
+  "matches": 157
+ },
+ "Jozef Kovalik": {
+  "elo": 1619.1,
+  "hard": 1451.4,
+  "clay": 1673.8,
+  "grass": 1392.1,
+  "matches": 82
+ },
+ "Michael Mmoh": {
+  "elo": 1747.0,
+  "hard": 1756.6,
+  "clay": 1482.4,
+  "grass": 1460.7,
+  "matches": 75
+ },
+ "Thiago Monteiro": {
+  "elo": 1641.7,
+  "hard": 1564.0,
+  "clay": 1661.7,
+  "grass": 1395.9,
+  "matches": 231
+ },
+ "Casper Ruud": {
+  "elo": 1951.6,
+  "hard": 1855.4,
+  "clay": 2005.0,
+  "grass": 1490.4,
+  "matches": 458
+ },
+ "Lloyd Harris": {
+  "elo": 1689.4,
+  "hard": 1665.7,
+  "clay": 1472.4,
+  "grass": 1551.8,
+  "matches": 163
+ },
+ "Hubert Hurkacz": {
+  "elo": 1937.0,
+  "hard": 1866.6,
+  "clay": 1873.7,
+  "grass": 1786.0,
+  "matches": 378
+ },
+ "Altug Celikbilek": {
+  "elo": 1638.0,
+  "hard": 1665.0,
+  "clay": 1400.6,
+  "grass": 1528.1,
+  "matches": 24
+ },
+ "Reilly Opelka": {
+  "elo": 1765.6,
+  "hard": 1736.4,
+  "clay": 1638.8,
+  "grass": 1576.5,
+  "matches": 237
+ },
+ "Pedro Cachin": {
+  "elo": 1573.1,
+  "hard": 1400.1,
+  "clay": 1602.2,
+  "grass": 1430.9,
+  "matches": 72
+ },
+ "Lorenzo Sonego": {
+  "elo": 1786.9,
+  "hard": 1760.4,
+  "clay": 1603.0,
+  "grass": 1657.1,
+  "matches": 353
+ },
+ "Daniil Medvedev": {
+  "elo": 1993.6,
+  "hard": 1976.7,
+  "clay": 1902.7,
+  "grass": 1840.7,
+  "matches": 605
+ },
+ "Gregoire Barrere": {
+  "elo": 1644.6,
+  "hard": 1541.3,
+  "clay": 1550.6,
+  "grass": 1579.3,
+  "matches": 102
+ },
+ "Ernesto Escobedo": {
+  "elo": 1474.1,
+  "hard": 1484.2,
+  "clay": 1403.0,
+  "grass": 1433.1,
+  "matches": 63
+ },
+ "Aziz Dougaz": {
+  "elo": 1333.7,
+  "hard": 1326.7,
+  "clay": 1537.0,
+  "grass": 1500.0,
+  "matches": 21
+ },
+ "Denis Shapovalov": {
+  "elo": 1836.3,
+  "hard": 1845.6,
+  "clay": 1678.4,
+  "grass": 1566.9,
+  "matches": 429
+ },
+ "Sumit Nagal": {
+  "elo": 1566.0,
+  "hard": 1533.0,
+  "clay": 1543.0,
+  "grass": 1440.8,
+  "matches": 53
+ },
+ "Alexander Bublik": {
+  "elo": 1956.1,
+  "hard": 1810.8,
+  "clay": 1878.1,
+  "grass": 1823.0,
+  "matches": 361
+ },
+ "Alex de Minaur": {
+  "elo": 2033.2,
+  "hard": 1990.4,
+  "clay": 1906.6,
+  "grass": 1836.4,
+  "matches": 491
+ },
+ "Christopher O'Connell": {
+  "elo": 1709.2,
+  "hard": 1704.4,
+  "clay": 1546.4,
+  "grass": 1496.0,
+  "matches": 151
+ },
+ "Tomas Barrios Vera": {
+  "elo": 1500.3,
+  "hard": 1419.0,
+  "clay": 1489.3,
+  "grass": 1523.9,
+  "matches": 31
+ },
+ "Soonwoo Kwon": {
+  "elo": 1716.9,
+  "hard": 1677.4,
+  "clay": 1597.2,
+  "grass": 1503.7,
+  "matches": 139
+ },
+ "Emil Ruusuvuori": {
+  "elo": 1764.8,
+  "hard": 1771.9,
+  "clay": 1549.7,
+  "grass": 1592.2,
+  "matches": 218
+ },
+ "Stefanos Tsitsipas": {
+  "elo": 1872.2,
+  "hard": 1830.0,
+  "clay": 1991.0,
+  "grass": 1606.3,
+  "matches": 554
+ },
+ "Tallon Griekspoor": {
+  "elo": 1848.7,
+  "hard": 1783.5,
+  "clay": 1773.9,
+  "grass": 1768.0,
+  "matches": 244
+ },
+ "Yibing Wu": {
+  "elo": 1778.3,
+  "hard": 1766.8,
+  "clay": 1541.6,
+  "grass": 1459.2,
+  "matches": 59
+ },
+ "Tennys Sandgren": {
+  "elo": 1599.6,
+  "hard": 1530.4,
+  "clay": 1468.0,
+  "grass": 1578.6,
+  "matches": 123
+ },
+ "Yannick Hanfmann": {
+  "elo": 1815.5,
+  "hard": 1787.2,
+  "clay": 1695.4,
+  "grass": 1503.2,
+  "matches": 178
+ },
+ "Matteo Berrettini": {
+  "elo": 1924.2,
+  "hard": 1864.6,
+  "clay": 2005.8,
+  "grass": 1890.9,
+  "matches": 328
+ },
+ "Daniel Altmaier": {
+  "elo": 1755.8,
+  "hard": 1725.2,
+  "clay": 1654.2,
+  "grass": 1442.0,
+  "matches": 177
+ },
+ "Alexandre Muller": {
+  "elo": 1756.9,
+  "hard": 1687.3,
+  "clay": 1753.3,
+  "grass": 1508.5,
+  "matches": 117
+ },
+ "Benjamin Bonzi": {
+  "elo": 1779.3,
+  "hard": 1746.2,
+  "clay": 1578.8,
+  "grass": 1519.7,
+  "matches": 141
+ },
+ "Cameron Norrie": {
+  "elo": 1890.7,
+  "hard": 1813.9,
+  "clay": 1869.1,
+  "grass": 1732.5,
+  "matches": 425
+ },
+ "Sebastian Ofner": {
+  "elo": 1643.1,
+  "hard": 1524.2,
+  "clay": 1697.3,
+  "grass": 1606.9,
+  "matches": 116
+ },
+ "Marc Polmans": {
+  "elo": 1469.8,
+  "hard": 1407.7,
+  "clay": 1536.0,
+  "grass": 1451.1,
+  "matches": 23
+ },
+ "Dominik Koepfer": {
+  "elo": 1745.6,
+  "hard": 1711.1,
+  "clay": 1711.6,
+  "grass": 1441.7,
+  "matches": 136
+ },
+ "Tung-Lin Wu": {
+  "elo": 1532.4,
+  "hard": 1507.9,
+  "clay": 1500.0,
+  "grass": 1500.0,
+  "matches": 22
+ },
+ "Roman Safiullin": {
+  "elo": 1703.3,
+  "hard": 1718.7,
+  "clay": 1571.6,
+  "grass": 1520.1,
+  "matches": 131
+ },
+ "Aleksandar Vukic": {
+  "elo": 1678.0,
+  "hard": 1647.4,
+  "clay": 1470.0,
+  "grass": 1525.7,
+  "matches": 138
+ },
+ "Alexei Popyrin": {
+  "elo": 1806.7,
+  "hard": 1754.6,
+  "clay": 1794.7,
+  "grass": 1455.4,
+  "matches": 246
+ },
+ "Corentin Moutet": {
+  "elo": 1854.1,
+  "hard": 1761.2,
+  "clay": 1742.7,
+  "grass": 1673.6,
+  "matches": 215
+ },
+ "Marc-Andrea Huesler": {
+  "elo": 1535.7,
+  "hard": 1522.2,
+  "clay": 1467.9,
+  "grass": 1433.6,
+  "matches": 84
+ },
+ "Benjamin Hassan": {
+  "elo": 1594.8,
+  "hard": 1495.4,
+  "clay": 1606.6,
+  "grass": 1500.0,
+  "matches": 28
+ },
+ "Chun-Hsin Tseng": {
+  "elo": 1452.5,
+  "hard": 1416.7,
+  "clay": 1486.4,
+  "grass": 1325.9,
+  "matches": 51
+ },
+ "Carlos Taberner": {
+  "elo": 1700.4,
+  "hard": 1560.9,
+  "clay": 1662.9,
+  "grass": 1412.5,
+  "matches": 46
+ },
+ "Sebastian Korda": {
+  "elo": 1873.3,
+  "hard": 1831.0,
+  "clay": 1740.2,
+  "grass": 1744.9,
+  "matches": 248
+ },
+ "Felix Auger-Aliassime": {
+  "elo": 2025.9,
+  "hard": 2004.5,
+  "clay": 1801.5,
+  "grass": 1672.4,
+  "matches": 440
+ },
+ "Hugo Gaston": {
+  "elo": 1583.9,
+  "hard": 1560.0,
+  "clay": 1590.9,
+  "grass": 1489.7,
+  "matches": 123
+ },
+ "Thiago Seyboth Wild": {
+  "elo": 1693.8,
+  "hard": 1575.7,
+  "clay": 1688.8,
+  "grass": 1535.5,
+  "matches": 95
+ },
+ "Miomir Kecmanovic": {
+  "elo": 1748.9,
+  "hard": 1714.8,
+  "clay": 1651.6,
+  "grass": 1586.1,
+  "matches": 346
+ },
+ "Holger Rune": {
+  "elo": 1918.3,
+  "hard": 1914.1,
+  "clay": 1903.6,
+  "grass": 1687.1,
+  "matches": 286
+ },
+ "Pedro Martinez": {
+  "elo": 1642.0,
+  "hard": 1528.8,
+  "clay": 1692.0,
+  "grass": 1421.9,
+  "matches": 203
+ },
+ "Federico Coria": {
+  "elo": 1594.0,
+  "hard": 1448.2,
+  "clay": 1623.3,
+  "grass": 1336.1,
+  "matches": 134
+ },
+ "Bernabe Zapata Miralles": {
+  "elo": 1553.7,
+  "hard": 1391.5,
+  "clay": 1664.6,
+  "grass": 1291.6,
+  "matches": 97
+ },
+ "Oscar Otte": {
+  "elo": 1574.8,
+  "hard": 1514.1,
+  "clay": 1585.3,
+  "grass": 1585.9,
+  "matches": 86
+ },
+ "Max Purcell": {
+  "elo": 1712.1,
+  "hard": 1626.2,
+  "clay": 1477.4,
+  "grass": 1562.7,
+  "matches": 85
+ },
+ "Jurij Rodionov": {
+  "elo": 1696.4,
+  "hard": 1655.0,
+  "clay": 1539.6,
+  "grass": 1487.8,
+  "matches": 49
+ },
+ "Yosuke Watanuki": {
+  "elo": 1758.8,
+  "hard": 1726.3,
+  "clay": 1581.6,
+  "grass": 1623.2,
+  "matches": 46
+ },
+ "Borna Gojo": {
+  "elo": 1677.2,
+  "hard": 1737.9,
+  "clay": 1395.1,
+  "grass": 1354.5,
+  "matches": 47
+ },
+ "Ugo Humbert": {
+  "elo": 1892.1,
+  "hard": 1935.8,
+  "clay": 1535.1,
+  "grass": 1631.6,
+  "matches": 316
+ },
+ "Jenson Brooksby": {
+  "elo": 1887.3,
+  "hard": 1790.6,
+  "clay": 1736.7,
+  "grass": 1685.6,
+  "matches": 115
+ },
+ "Nicolas Mejia": {
+  "elo": 1401.6,
+  "hard": 1261.1,
+  "clay": 1544.2,
+  "grass": 1500.0,
+  "matches": 21
+ },
+ "Jiri Lehecka": {
+  "elo": 1945.3,
+  "hard": 1890.9,
+  "clay": 1788.4,
+  "grass": 1774.8,
+  "matches": 208
+ },
+ "Francisco Cerundolo": {
+  "elo": 1882.5,
+  "hard": 1857.3,
+  "clay": 1859.7,
+  "grass": 1493.0,
+  "matches": 254
+ },
+ "Emilio Nava": {
+  "elo": 1673.8,
+  "hard": 1644.2,
+  "clay": 1487.7,
+  "grass": 1453.6,
+  "matches": 31
+ },
+ "Alejandro Davidovich Fokina": {
+  "elo": 1932.1,
+  "hard": 1883.8,
+  "clay": 1780.6,
+  "grass": 1616.5,
+  "matches": 304
+ },
+ "Jannik Sinner": {
+  "elo": 2365.7,
+  "hard": 2349.3,
+  "clay": 2092.3,
+  "grass": 2025.5,
+  "matches": 417
+ },
+ "Zachary Svajda": {
+  "elo": 1635.3,
+  "hard": 1614.2,
+  "clay": 1500.0,
+  "grass": 1447.7,
+  "matches": 27
+ },
+ "Coleman Wong": {
+  "elo": 1682.4,
+  "hard": 1697.9,
+  "clay": 1434.3,
+  "grass": 1457.7,
+  "matches": 31
+ },
+ "Botic van de Zandschulp": {
+  "elo": 1752.8,
+  "hard": 1718.7,
+  "clay": 1675.9,
+  "grass": 1538.1,
+  "matches": 223
+ },
+ "Alejandro Tabilo": {
+  "elo": 1797.8,
+  "hard": 1723.7,
+  "clay": 1681.1,
+  "grass": 1684.7,
+  "matches": 142
+ },
+ "Facundo Diaz Acosta": {
+  "elo": 1655.5,
+  "hard": 1569.5,
+  "clay": 1672.5,
+  "grass": 1465.9,
+  "matches": 49
+ },
+ "Harold Mayot": {
+  "elo": 1571.5,
+  "hard": 1543.0,
+  "clay": 1532.0,
+  "grass": 1459.7,
+  "matches": 25
+ },
+ "Brandon Nakashima": {
+  "elo": 1811.6,
+  "hard": 1746.9,
+  "clay": 1657.1,
+  "grass": 1678.6,
+  "matches": 238
+ },
+ "Carlos Alcaraz": {
+  "elo": 2309.5,
+  "hard": 2194.9,
+  "clay": 2247.5,
+  "grass": 2122.7,
+  "matches": 345
+ },
+ "Lorenzo Musetti": {
+  "elo": 1981.5,
+  "hard": 1874.1,
+  "clay": 2063.4,
+  "grass": 1802.2,
+  "matches": 313
+ },
+ "Otto Virtanen": {
+  "elo": 1646.4,
+  "hard": 1564.6,
+  "clay": 1496.0,
+  "grass": 1506.8,
+  "matches": 38
+ },
+ "J.J. Wolf": {
+  "elo": 1615.6,
+  "hard": 1567.1,
+  "clay": 1555.5,
+  "grass": 1556.3,
+  "matches": 98
+ },
+ "Maxime Cressy": {
+  "elo": 1570.0,
+  "hard": 1574.0,
+  "clay": 1365.3,
+  "grass": 1556.9,
+  "matches": 101
+ },
+ "Arthur Rinderknech": {
+  "elo": 1874.5,
+  "hard": 1815.7,
+  "clay": 1685.7,
+  "grass": 1643.6,
+  "matches": 213
+ },
+ "Tomas Machac": {
+  "elo": 1789.1,
+  "hard": 1801.8,
+  "clay": 1693.5,
+  "grass": 1547.1,
+  "matches": 133
+ },
+ "Giulio Zeppieri": {
+  "elo": 1456.2,
+  "hard": 1445.6,
+  "clay": 1466.3,
+  "grass": 1408.6,
+  "matches": 27
+ },
+ "Pavel Kotov": {
+  "elo": 1608.8,
+  "hard": 1532.8,
+  "clay": 1658.3,
+  "grass": 1520.1,
+  "matches": 82
+ },
+ "Zizou Bergs": {
+  "elo": 1837.9,
+  "hard": 1814.6,
+  "clay": 1522.2,
+  "grass": 1494.9,
+  "matches": 119
+ },
+ "Luca Nardi": {
+  "elo": 1703.1,
+  "hard": 1681.4,
+  "clay": 1508.6,
+  "grass": 1429.1,
+  "matches": 55
+ },
+ "Tomas Martin Etcheverry": {
+  "elo": 1779.0,
+  "hard": 1749.0,
+  "clay": 1686.5,
+  "grass": 1406.7,
+  "matches": 193
+ },
+ "Hugo Grenier": {
+  "elo": 1549.1,
+  "hard": 1488.1,
+  "clay": 1476.8,
+  "grass": 1502.8,
+  "matches": 26
+ },
+ "Alex Molcan": {
+  "elo": 1801.9,
+  "hard": 1732.2,
+  "clay": 1792.6,
+  "grass": 1512.4,
+  "matches": 96
+ },
+ "Tristan Schoolkate": {
+  "elo": 1631.0,
+  "hard": 1603.9,
+  "clay": 1478.0,
+  "grass": 1467.3,
+  "matches": 20
+ },
+ "Juan Manuel Cerundolo": {
+  "elo": 1724.7,
+  "hard": 1587.6,
+  "clay": 1721.5,
+  "grass": 1470.0,
+  "matches": 58
+ },
+ "Shintaro Mochizuki": {
+  "elo": 1551.7,
+  "hard": 1489.7,
+  "clay": 1487.1,
+  "grass": 1415.9,
+  "matches": 32
+ },
+ "Thiago Agustin Tirante": {
+  "elo": 1627.1,
+  "hard": 1540.3,
+  "clay": 1627.4,
+  "grass": 1500.0,
+  "matches": 23
+ },
+ "Lukas Klein": {
+  "elo": 1572.1,
+  "hard": 1480.7,
+  "clay": 1566.5,
+  "grass": 1432.7,
+  "matches": 33
+ },
+ "Sebastian Baez": {
+  "elo": 1663.1,
+  "hard": 1558.5,
+  "clay": 1724.1,
+  "grass": 1386.0,
+  "matches": 220
+ },
+ "Jack Draper": {
+  "elo": 2048.8,
+  "hard": 2030.9,
+  "clay": 1899.5,
+  "grass": 1790.2,
+  "matches": 170
+ },
+ "Nuno Borges": {
+  "elo": 1768.6,
+  "hard": 1753.6,
+  "clay": 1673.0,
+  "grass": 1532.4,
+  "matches": 151
+ },
+ "Dominic Stricker": {
+  "elo": 1652.1,
+  "hard": 1593.4,
+  "clay": 1580.2,
+  "grass": 1533.2,
+  "matches": 56
+ },
+ "Arthur Cazaux": {
+  "elo": 1772.4,
+  "hard": 1662.4,
+  "clay": 1722.0,
+  "grass": 1517.3,
+  "matches": 61
+ },
+ "Hamad Medjedovic": {
+  "elo": 1759.2,
+  "hard": 1735.4,
+  "clay": 1600.8,
+  "grass": 1508.8,
+  "matches": 73
+ },
+ "Flavio Cobolli": {
+  "elo": 1884.0,
+  "hard": 1774.3,
+  "clay": 1895.9,
+  "grass": 1725.5,
+  "matches": 140
+ },
+ "Vit Kopriva": {
+  "elo": 1619.7,
+  "hard": 1548.4,
+  "clay": 1613.9,
+  "grass": 1462.7,
+  "matches": 39
+ },
+ "Andrea Vavassori": {
+  "elo": 1755.9,
+  "hard": 1651.3,
+  "clay": 1685.5,
+  "grass": 1429.5,
+  "matches": 23
+ },
+ "Fabian Marozsan": {
+  "elo": 1798.3,
+  "hard": 1745.4,
+  "clay": 1717.6,
+  "grass": 1435.1,
+  "matches": 124
+ },
+ "Rinky Hijikata": {
+  "elo": 1658.2,
+  "hard": 1666.2,
+  "clay": 1344.2,
+  "grass": 1471.4,
+  "matches": 90
+ },
+ "Juncheng Shang": {
+  "elo": 1698.0,
+  "hard": 1657.8,
+  "clay": 1441.5,
+  "grass": 1600.7,
+  "matches": 76
+ },
+ "Gijs Brouwer": {
+  "elo": 1697.8,
+  "hard": 1621.0,
+  "clay": 1563.2,
+  "grass": 1539.9,
+  "matches": 27
+ },
+ "Matteo Arnaldi": {
+  "elo": 1748.7,
+  "hard": 1709.2,
+  "clay": 1791.0,
+  "grass": 1389.8,
+  "matches": 136
+ },
+ "Francesco Passaro": {
+  "elo": 1583.7,
+  "hard": 1447.0,
+  "clay": 1589.7,
+  "grass": 1500.0,
+  "matches": 31
+ },
+ "Camilo Ugo Carabelli": {
+  "elo": 1670.3,
+  "hard": 1597.9,
+  "clay": 1723.0,
+  "grass": 1393.5,
+  "matches": 57
+ },
+ "Jesper de Jong": {
+  "elo": 1778.5,
+  "hard": 1700.9,
+  "clay": 1763.8,
+  "grass": 1426.5,
+  "matches": 41
+ },
+ "Ben Shelton": {
+  "elo": 1971.8,
+  "hard": 1921.2,
+  "clay": 1802.5,
+  "grass": 1673.1,
+  "matches": 189
+ },
+ "Alexander Shevchenko": {
+  "elo": 1740.9,
+  "hard": 1684.1,
+  "clay": 1669.9,
+  "grass": 1390.7,
+  "matches": 119
+ },
+ "Filip Misolic": {
+  "elo": 1672.3,
+  "hard": 1516.7,
+  "clay": 1717.2,
+  "grass": 1460.8,
+  "matches": 37
+ },
+ "Dino Prizmic": {
+  "elo": 1603.8,
+  "hard": 1517.0,
+  "clay": 1583.0,
+  "grass": 1500.0,
+  "matches": 22
+ },
+ "Learner Tien": {
+  "elo": 1961.5,
+  "hard": 1930.9,
+  "clay": 1448.0,
+  "grass": 1558.9,
+  "matches": 72
+ },
+ "Valentin Vacherot": {
+  "elo": 2002.6,
+  "hard": 2014.4,
+  "clay": 1578.0,
+  "grass": 1500.0,
+  "matches": 29
+ },
+ "Yunchaokete Bu": {
+  "elo": 1659.1,
+  "hard": 1642.2,
+  "clay": 1326.4,
+  "grass": 1399.4,
+  "matches": 58
+ },
+ "Gabriel Diallo": {
+  "elo": 1844.4,
+  "hard": 1737.1,
+  "clay": 1742.4,
+  "grass": 1709.4,
+  "matches": 80
+ },
+ "Aleksandar Kovacevic": {
+  "elo": 1542.4,
+  "hard": 1533.3,
+  "clay": 1367.1,
+  "grass": 1489.1,
+  "matches": 84
+ },
+ "Luca Van Assche": {
+  "elo": 1618.9,
+  "hard": 1630.6,
+  "clay": 1567.1,
+  "grass": 1407.6,
+  "matches": 64
+ },
+ "Arthur Fils": {
+  "elo": 1966.9,
+  "hard": 1875.3,
+  "clay": 1926.7,
+  "grass": 1677.1,
+  "matches": 144
+ },
+ "Mattia Bellucci": {
+  "elo": 1675.5,
+  "hard": 1629.4,
+  "clay": 1512.9,
+  "grass": 1553.2,
+  "matches": 44
+ },
+ "Luciano Darderi": {
+  "elo": 1730.0,
+  "hard": 1467.1,
+  "clay": 1895.3,
+  "grass": 1493.8,
+  "matches": 110
+ },
+ "Joao Fonseca": {
+  "elo": 1964.8,
+  "hard": 1953.5,
+  "clay": 1772.7,
+  "grass": 1576.6,
+  "matches": 63
+ },
+ "Giovanni Mpetshi Perricard": {
+  "elo": 1761.0,
+  "hard": 1735.6,
+  "clay": 1574.0,
+  "grass": 1553.0,
+  "matches": 79
+ },
+ "Alex Michelsen": {
+  "elo": 1740.7,
+  "hard": 1703.3,
+  "clay": 1462.5,
+  "grass": 1649.5,
+  "matches": 131
+ },
+ "Ethan Quinn": {
+  "elo": 1655.2,
+  "hard": 1537.6,
+  "clay": 1643.1,
+  "grass": 1532.5,
+  "matches": 38
+ },
+ "Jakub Mensik": {
+  "elo": 1876.7,
+  "hard": 1874.9,
+  "clay": 1768.7,
+  "grass": 1584.2,
+  "matches": 104
+ },
+ "Terence Atmane": {
+  "elo": 1670.4,
+  "hard": 1610.9,
+  "clay": 1514.1,
+  "grass": 1500.0,
+  "matches": 31
+ },
+ "Billy Harris": {
+  "elo": 1579.6,
+  "hard": 1395.3,
+  "clay": 1469.0,
+  "grass": 1549.1,
+  "matches": 31
+ },
+ "Adam Walton": {
+  "elo": 1673.1,
+  "hard": 1624.6,
+  "clay": 1549.8,
+  "grass": 1434.0,
+  "matches": 47
+ },
+ "Francisco Comesana": {
+  "elo": 1730.6,
+  "hard": 1622.4,
+  "clay": 1684.9,
+  "grass": 1525.6,
+  "matches": 53
+ },
+ "Mariano Navone": {
+  "elo": 1691.1,
+  "hard": 1547.9,
+  "clay": 1759.0,
+  "grass": 1414.0,
+  "matches": 83
+ },
+ "Jacob Fearnley": {
+  "elo": 1686.1,
+  "hard": 1595.1,
+  "clay": 1743.9,
+  "grass": 1527.6,
+  "matches": 42
+ },
+ "Raphael Collignon": {
+  "elo": 1768.9,
+  "hard": 1746.5,
+  "clay": 1473.8,
+  "grass": 1488.0,
+  "matches": 23
+ },
+ "Nishesh Basavareddy": {
+  "elo": 1641.4,
+  "hard": 1637.2,
+  "clay": 1434.3,
+  "grass": 1332.6,
+  "matches": 28
+ },
+ "Valentin Royer": {
+  "elo": 1745.9,
+  "hard": 1701.1,
+  "clay": 1437.5,
+  "grass": 1545.1,
+  "matches": 21
+ }
+}
