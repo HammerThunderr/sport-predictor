@@ -1,1 +1,66 @@
+name: Tennis predictions (daily)
 
+# Runs every morning, refreshes Elo ratings from the latest match data,
+# fetches today's fixtures, and commits ratings.json + predictions.json.
+# Also runnable on-demand from the Actions tab (workflow_dispatch).
+
+on:
+  schedule:
+    - cron: "0 6 * * *"      # 06:00 UTC daily
+  workflow_dispatch:
+
+permissions:
+  contents: write             # needed so the job can commit results back
+
+jobs:
+  predict:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: tennis
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install pandas
+
+      - name: Refresh current-year match data
+        run: |
+          # Historical yearly CSVs (2005..last year) are committed in tennis/data/.
+          # Only the current year changes, so re-download just that from the
+          # daily-updated TML mirror. Adjust the year(s) as seasons roll over.
+          YEAR=$(date +%Y)
+          mkdir -p data
+          curl -sSL -o "data/${YEAR}.csv" \
+            "https://raw.githubusercontent.com/Tennismylife/TML-Database/master/${YEAR}.csv" || true
+          # rebuild the concatenated history the scripts read
+          python - <<'PY'
+          import pandas as pd, glob
+          frames = [pd.read_csv(f) for f in sorted(glob.glob("data/*.csv"))]
+          raw = pd.concat(frames, ignore_index=True)
+          raw = raw[raw['winner_id'].notna() & raw['loser_id'].notna()]
+          raw.to_csv("raw_all.csv", index=False)
+          print("raw_all.csv rows:", len(raw))
+          PY
+
+      - name: Update Elo ratings
+        run: python update_ratings.py
+
+      - name: Fetch fixtures and predict
+        env:
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+          RAPIDAPI_HOST: ${{ secrets.RAPIDAPI_HOST }}
+        run: python fetch_and_predict.py
+
+      - name: Commit results
+        run: |
+          cd ..
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add tennis/ratings.json tennis/predictions.json
+          git diff --staged --quiet || git commit -m "Update predictions $(date -u +%F)"
+          git push
